@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="ingresar_texto">Escriba algo</string>
+    <string name="compartir">Compartir texto</string>
+</resources>
